@@ -1,0 +1,159 @@
+body {
+    background-color: #232323;
+  }
+  
+  a {
+    color: #60ccff;
+  }
+  
+  .App {
+    color: white;
+  }
+  
+  h2 {
+    font-size: 40px;
+  }
+  
+  .jumbotron {
+    background-color: #333333;
+  }
+  
+  .header {
+    background-color: #232323;
+  }
+  
+  .contentGrid {
+    min-height: 75vh;
+  }
+  
+  .header {
+    background-color: #232323;
+    float: right;
+    width: 100%;
+  }
+  
+  .socialMediaList {
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+  }
+  
+  .socialMediaList li {
+    display: inline-block;
+  }
+  
+  .btn i {
+    size: 1vh;
+  }
+  
+  .btn-social:hover {
+    color: #286090;
+  }
+  
+  .btn-primary {
+    background-color: #40a0ce;
+  }
+  
+  control-label {
+    margin-top:10px;
+  }
+  
+  .messageSent {
+    background-color: green;
+    text-align: center;
+  }
+  
+  .noMessage {
+    display: none;
+  }
+  
+  .title-area h1{
+    font-family: bebas-neue-regular;
+    text-align: center;
+    font-size: 60px;
+  }
+  
+  .title-image {
+    padding-top: 20px;
+  }
+  
+  .navigation {
+    padding: 10px;
+    color: white;
+    margin-right: 10vh;
+  }
+  
+  .content-column {
+    padding-left: 15vh;
+  }
+  
+  .content-area {
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  
+  .content-area p {
+    font-size: 20px;
+  }
+  
+  .content-area h2 {
+    font-family: bebas-neue-regular;
+  }
+  
+  .about-content-area {
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  
+  .about-content-area p {
+    font-size: 20px;
+  }
+  
+  .about-content-area h2 {
+    font-family: bebas-neue-regular;
+  }
+  
+  .projects-content-area {
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  
+  .projects-content-area h2 {
+    font-family: bebas-neue-regular;
+  }
+  
+  .list-of-projects p{
+    color: white;
+    font-size: 16px;
+  }
+  
+  .projectPanel {
+    background-color: #232323;
+  }
+  
+  .projectExpandButton, .expandButton, .collapseButton {
+    color: white;
+    background-color: #232323;
+    float: right;
+    font-family: bebas-neue-regular;
+  }
+  
+  .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    background-color: #40a0ce;
+  }
+  
+  .footer {
+    background-color: #232323;
+    text-align: center;
+  }
+  
+  @font-face {
+    font-family: "bebas-neue-regular";
+    src: url("./fonts/BebasNeue-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
